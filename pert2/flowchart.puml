@@ -1,4 +1,4 @@
-@startuml
+@startuml menghitungluaspersegipanjang
 title Menghitung Luas Persegi Panjang
 
 (*) -right-> "Masukkan Nilai P"
