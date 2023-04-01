@@ -1,10 +1,12 @@
-# Bentuk Algoritma
+# Pertemuan 2
 
-## - Kalimat Deskriptif
+## Bentuk Algoritma
 
-## - Pseudocode
+1. Kalimat Deskriptif
 
-## - Flowchart
+2. Pseudocode
+
+3. Flowchart
 
 **mermaid**
 [dokumentasi](https://mermaid.js.org/syntax/flowchart.html)
