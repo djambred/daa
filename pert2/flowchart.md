@@ -1,6 +1,6 @@
 ```mermaid
     flowchart TD;
-    %% DOKUMENTASI https://mermaid.js.org/syntax/flowchart.html
+   
     A(start) --> B[/Masukkan Nilai P/];
     B --> C{Inputan Angka}
     C -- Tidak --> B
